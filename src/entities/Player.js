@@ -1,7 +1,7 @@
 Player = function(game) {
     this.game = game;
-    this.speed = 20;
-    this.lives = 3;
+    this.speed = 50;
+    this.lives = 10;
     this.isDead = false;
     this.canMove = true;
     thud = game.add.audio('thud');
