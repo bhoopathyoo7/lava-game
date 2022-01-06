@@ -8,7 +8,7 @@ var creditsState = {
             fill: '#424242'
         });
         this.creator.anchor.setTo(0.5, 0.5);
-        this.creatorName = game.add.text(game.world.centerX, 230, 'Bhoopathy.s,afzal', {
+        this.creatorName = game.add.text(game.world.centerX, 230, 'Bhoopathy.s (21me02),  mohamedafzal (21ce03)  balasubra mani (21at02)', {
             fill: '#fff',
             fontSize: 48
         });
@@ -18,7 +18,7 @@ var creditsState = {
             fill: '#424242'
         });
         this.musicCreator.anchor.setTo(0.5, 0.5);
-        this.musicCreatorName = game.add.text(game.world.centerX, 430, 'ed Shereen', {
+        this.musicCreatorName = game.add.text(game.world.centerX, 430, 'lockdown mashup', {
             fill: '#fff',
             fontSize: 48
         });
